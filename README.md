@@ -1,2 +1,4 @@
 # College-demo
-This is my first Github project
+This is my first Git Repogirtory.
+<br />
+Author-Tarannum Fatima
